@@ -1,0 +1,5 @@
+mautic.admin_settings_form:
+  title: 'Mautic'
+  parent: system.admin_config_system
+  description: 'Configure Mautic settings'
+  route_name: mautic.configure

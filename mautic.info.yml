@@ -1,0 +1,9 @@
+name: 'Mautic Integration'
+description: 'Mautic tracking and forms'
+package: 'Mautic'
+version: 8.x-1.0-dev
+core: 8.x
+configure: mautic.configure
+type: module
+dependencies:
+  - drupal:block
